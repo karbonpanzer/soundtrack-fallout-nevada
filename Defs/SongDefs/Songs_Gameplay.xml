@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!-- Ambient Tracks --> 
+	<SongDef>
+			<clipPath>Ghost_Town</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>High_Wind</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>Improper_Subdivision</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>Jammer</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>Line_of_Policy</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>New_Vegas</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>Radiationless</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>Radioluminescence</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>Ride_to_Cheyenne</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>Root_Information</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>Theme</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>Village</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>We_Are_Sorry</clipPath>
+			<volume>0.7</volume>
+	</SongDef>
+	<SongDef>
+			<clipPath>Wind_of_War</clipPath>
+			<volume>0.7</volume>
+	</SongDef>	
+</Defs>
+
